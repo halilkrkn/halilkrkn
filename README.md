@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/halilkrkn" target="blank"><img src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-badge" alt="halilkrkn" /></a> </p>
 
-## 📝 I regularly write articles on [https://medium.com/@halilkrkn](https://medium.com/@halilkrkn)
+<!-- ## 📝 I regularly write articles on [https://medium.com/@halilkrkn](https://medium.com/@halilkrkn) -->
 
 ## 💬Who am I? 
 **I am a curious, positive, friendly person who is trying to improve himself in the fields of Artificial Intelligence and Mobile Application Development. I am prone to teamwork and as a team player I can adapt to difficult situations. As a person who believes and loves that learning never ends, I try to improve myself and do my best. My goal is to be an entrepreneurial engineer and to take initiatives that will change the world and leave a mark. My vision is to work hard, want, dream, believe, strive and be patient.**
@@ -32,4 +32,4 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilkrkn&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ff6600&bg_color=000000&hide_border=true&locale=en" alt="halilkrkn" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilkrkn&theme=dark" alt="halilkrkn" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilkrkn&theme=dark" alt="halilkrkn" /></p>
