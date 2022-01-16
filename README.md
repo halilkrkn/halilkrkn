@@ -1,6 +1,6 @@
 
 <img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
-<img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
+<img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Halilkrkn</h1>
 
 <h3 align="center">Android-Kotlin and Deep Learning Software Engineer from Turkey</h3>
