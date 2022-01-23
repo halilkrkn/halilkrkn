@@ -14,8 +14,6 @@
 ## 💬Who am I? 
 **I am a curious, positive, friendly person who is trying to improve himself in the fields of Artificial Intelligence and Mobile Application Development. I am prone to teamwork and as a team player I can adapt to difficult situations. As a person who believes and loves that learning never ends, I try to improve myself and do my best. My goal is to be an entrepreneurial engineer and to take initiatives that will change the world and leave a mark. My vision is to work hard, want, dream, believe, strive and be patient.**
 
-## 📫 How to reach me **halilibrahimkarkin@gmail.com**
-
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
