@@ -33,8 +33,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<a href="https://github.com/halilkrkn">
-  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halilkrkn&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ff6600&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="halilkrkn"/>
+<!-- <a href="https://github.com/halilkrkn">
+  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halilkrkn&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ff6600&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="halilkrkn"/> -->
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=halilkrkn&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ff6600&bg_color=000000&hide_border=true&locale=en" alt="halilkrkn" />
 </a>
 </p>
