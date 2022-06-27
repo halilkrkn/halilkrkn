@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Halil KARKIN</h1>
 
-<h3 align="center">Android-Kotlin and Deep Learning Software Engineer from Turkey</h3>
+<h3 align="center">Android Software Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilkrkn&label=Profile%20views&color=ff6600&style=flat" alt="halilkrkn" /> </p>
 
