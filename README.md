@@ -46,4 +46,4 @@ src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/halilkrkn"><img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="350" height="450" /></a>
+<a href="https://www.buymeacoffee.com/halilkrkn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
