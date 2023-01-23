@@ -44,8 +44,6 @@ src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/halilkrkn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=halilkrkn&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=halilkrkn&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/halilkrkn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
