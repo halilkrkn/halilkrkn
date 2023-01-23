@@ -11,8 +11,8 @@ I am a curious, positive, friendly person who is trying to improve himself in th
 * 🧠  I'm learning Android Development and Java Spring Framework
 
 <a href="https://www.github.com/halilkrkn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/halilkrkn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/halilkrkn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/halilkrkn?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.twitter.com/halilkrkn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -40,9 +40,11 @@ src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-stats.vercel.app/api?username=halilkrkn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="halilkrkn's GitHub stats" /></a>
+<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-stats.vercel.app/api?username=halilkrkn&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="halilkrkn's GitHub stats" /></a>
 
-<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=halilkrkn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=halilkrkn&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/halilkrkn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=halilkrkn&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
