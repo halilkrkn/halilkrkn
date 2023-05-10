@@ -11,10 +11,7 @@ I am a curious, positive, friendly person who is trying to improve himself in th
 * 🧠  I'm learning Android Development and Java Spring Framework
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilkrkn&label=Profile%20views&color=ff2320&style=flat" alt="halilkrkn" /> </p>
-<a href="https://www.github.com/halilkrkn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/halilkrkn?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitter.com/halilkrkn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/halilkrkn?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/halilkrkn" target="_blank" rel="noreferrer">
 
 ### Skills
 
