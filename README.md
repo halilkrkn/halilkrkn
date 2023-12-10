@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://i.imgflip.com/88wdnb.gif"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋! My name is Halil and I'm a Android Developer | Java Developer<br>from Turkey</h2>
 
 ###
@@ -57,14 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/88wdnb.gif"  />
 </div>
 
 ###
