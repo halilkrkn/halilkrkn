@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Halil and I'm a Android Developer | Java Developer<br>from Turkey</h2>
+<h2 align="center">Hi 👋! My name is Halil and I'm a Android Developer | Java Backend Developer<br>from Turkey</h2>
 
 ###
 
